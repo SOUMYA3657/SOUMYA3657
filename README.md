@@ -155,8 +155,6 @@ AI Engineer • Machine Learning Enthusiast • Open Source Learner
 
 ---
 
-# 🐍 Contribution Snake
-
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/SOUMYA3657/SOUMYA3657/output/github-contribution-grid-snake-dark.svg"/>
