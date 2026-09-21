@@ -1,211 +1,82 @@
-<h1 align="center">
-Hi 👋 I'm Soumyadip Paria
-</h1>
+# 👋 Hi, I'm Soumya
 
-<h3 align="center">
-AI Engineer • Machine Learning Enthusiast • Open Source Learner
-</h3>
+### 🤖 AI & ML Engineer | Software Developer | Generative AI Enthusiast
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Deep+Learning+Explorer;Computer+Vision+Developer;Building+Real+World+AI+Projects;Always+Learning+New+Things🚀" />
-</p>
+> Building intelligent systems, exploring modern AI, and turning ideas into practical software.
+
+I’m passionate about **Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, NLP, Computer Vision, and Software Development**.
+
+I enjoy building end-to-end applications that combine **AI models, APIs, databases, and modern software technologies**.
 
 ---
 
-# 💫 About Me
+## 🚀 About Me
 
-- 🎓 AIML Student
-- 🌱 Currently learning **Deep Learning**
-- 🤖 Building AI Applications
-- 💡 Passionate about Computer Vision
-- 🚀 Open Source Enthusiast
-- 🧠 Learning LLMs & AI Agents
-- 💻 Love solving real-world problems
-
----
-
-# 🚀 Current Focus
-
-- AI Agents
-- Generative AI
-- LLM Applications
-- Deep Learning
-- Reinforcement Learning
-- MLOps
-- Computer Vision
+- 🤖 Focused on **AI, Machine Learning & Generative AI**
+- 🧠 Exploring **LLMs, RAG, Agentic AI & Multi-Agent Systems**
+- 👁️ Interested in **Computer Vision & Natural Language Processing**
+- 💻 Experienced with **Python, Java, C, JavaScript, SQL & Web Technologies**
+- ⚙️ Building backend systems using **Flask, FastAPI & Django**
+- 🗄️ Working with **MySQL, SQLite & Relational Databases**
+- 📊 Interested in **Data Visualization & Analytics**
+- 🔬 Constantly learning, experimenting, and building AI-powered projects
 
 ---
 
-# 🌐 Connect with me
+# 🛠️ Technical Skills
 
-<p align="left">
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="YOUR_TWITTER">
-<img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
-
-# 💻 Programming Languages
+## 💻 Programming Languages
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-<img src="https://skillicons.dev/icons?i=java"/>
-<img src="https://skillicons.dev/icons?i=c"/>
-<img src="https://skillicons.dev/icons?i=cpp"/>
-<img src="https://skillicons.dev/icons?i=js"/>
-<img src="https://skillicons.dev/icons?i=html"/>
-<img src="https://skillicons.dev/icons?i=css"/>
-
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ---
 
-# 🤖 AI / ML
+## 🤖 AI / Machine Learning / Deep Learning
+
+### Machine Learning
+- Supervised Learning
+- Unsupervised Learning
+- Feature Engineering
+- Model Evaluation
+- Model Optimization
+
+### Deep Learning
+- Neural Networks
+- Convolutional Neural Networks (CNNs)
+- Recurrent Neural Networks (RNNs)
+
+### Frameworks & Libraries
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-<img src="https://skillicons.dev/icons?i=pytorch"/>
-<img src="https://skillicons.dev/icons?i=opencv"/>
-<img src="https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikitlearn"/>
-
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
 </p>
 
 ---
 
-# ⚙️ Backend
+# ✨ Generative AI & LLMs
 
-<p>
+- 🪄 Prompt Engineering
+- 🧠 Large Language Models (LLMs)
+- 🔧 LLM Fine-Tuning — Fundamentals
+- 📚 Retrieval-Augmented Generation (RAG)
+- 🤖 Agentic AI
+- 🕸️ Multi-Agent Systems
+- 🔗 LangChain — Fundamentals
 
-<img src="https://skillicons.dev/icons?i=flask"/>
-<img src="https://skillicons.dev/icons?i=fastapi"/>
-<img src="https://skillicons.dev/icons?i=nodejs"/>
+### Areas of Interest
 
-</p>
-
----
-
-# 🛢 Databases
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-<img src="https://skillicons.dev/icons?i=sqlite"/>
-
-</p>
-
----
-
-# 🛠 Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-<img src="https://skillicons.dev/icons?i=github"/>
-<img src="https://skillicons.dev/icons?i=vscode"/>
-<img src="https://skillicons.dev/icons?i=linux"/>
-<img src="https://skillicons.dev/icons?i=docker"/>
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=SOUMYA3657&theme=tokyonight&hide_border=true&show_icons=true)
-
----
-
-# 🔥 GitHub Streak
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=SOUMYA3657&theme=tokyonight&hide_border=true)
-
----
-
-# 💻 Most Used Languages
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SOUMYA3657&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=SOUMYA3657&theme=algolia&no-frame=true&margin-w=15&margin-h=15)
-
----
-
-# 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=SOUMYA3657&theme=tokyo-night)
-
----
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/SOUMYA3657/SOUMYA3657/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-⭐ SavorAI
-
-AI-powered Restaurant Demand Forecasting
-
-⭐ CropVision AI
-
-Computer Vision Disease Detection
-
-⭐ NEXA AI Assistant
-
-Desktop AI Assistant
-
-⭐ AI Voice Assistant
-
-Python + Flask
-
----
-
-# 🎯 2026 Goals
-
-- Build Production AI Systems
-- Master Deep Learning
-- Learn MLOps
-- Contribute to Open Source
-- Publish Research Projects
-- Crack Google / NVIDIA Internship
-
----
-
-# ✍ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=SOUMYA3657&label=Profile+Views&color=blue&style=for-the-badge"/>
-
-</p>
-
-<p align="center">
-⭐ Thanks for visiting my profile ⭐
-</p>
+```text
+LLMs → RAG → AI Agents → Tool Calling → Multi-Agent Systems
+                    ↓
+             Intelligent Applications
